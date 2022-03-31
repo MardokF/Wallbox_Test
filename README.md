@@ -1,8 +1,12 @@
 # Wallbox_Test
 Wallbox Test Implementation
+In each Python script you can find test developed with Pytest library. For this reason is suggested to install pytest library: pip install pytest
+Each Test case is described inside the script.
 
-
-
+# Part 1: Unit Testing
+1) For Poblem #1 I choose two vectors of integer that can have different length.
+2) Fill the path of Problem #2 with folder in your PC.
+3) 1) For Poblem #3 I choose two vectors of integer with value 0 or 1 as specifications. The tests monitor also if array have same length.
 
 
 
